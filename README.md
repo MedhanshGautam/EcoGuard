@@ -11,4 +11,4 @@ EcoGuard: A modern hub for climate awareness and education. Learn about renewabl
 <img width="1891" height="914" alt="image" src="https://github.com/user-attachments/assets/bf605dcb-442d-4a5d-82dd-76346c17f5da" />
 <img width="1894" height="906" alt="image" src="https://github.com/user-attachments/assets/58d1f629-0424-436d-a70b-efce5b77ca92" />
 <img width="1892" height="903" alt="image" src="https://github.com/user-attachments/assets/27291308-bc46-4704-905d-8dc0045b308b" />
-![Screenshot 2026-03-20 215307](https://github.com/user-attachments/assets/910af6b6-0c40-4b24-8594-6da33d5be1bd)
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/0a3f3fd9-7ca9-4c2d-bccf-049f2388c6a3" />
